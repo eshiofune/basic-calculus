@@ -91,3 +91,5 @@ def hyperFunction(function, variable = 'x'):
     else:
         return "Invalid function"
 print(hyperFunction("csch", "x^3 + 5x^2"))
+
+#test
